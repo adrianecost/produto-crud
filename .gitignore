@@ -1,0 +1,24 @@
+# ─────────────── DEPENDÊNCIAS ───────────────
+node_modules/
+
+# ─────────────── BANCO DE DADOS LOCAL ───────────────
+*.sqlite
+*.db
+
+# ─────────────── LOGS E CACHE ───────────────
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# ─────────────── VARIÁVEIS DE AMBIENTE ───────────────
+.env
+
+# ─────────────── BUILD / ARTEFATOS TEMPORÁRIOS ───────────────
+dist/
+build/
+coverage/
+tmp/
+.cache/
+.DS_Store
