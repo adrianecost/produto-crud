@@ -38,7 +38,7 @@ O sistema permite cadastrar, visualizar, editar, excluir e pesquisar produtos, a
 ---
 
 ##  Estrutura de Pastas
-
+```
 produto-crud/
 │
 ├── models/
@@ -54,7 +54,7 @@ produto-crud/
 ├── package-lock.json
 ├── LICENSE
 └── README.md # Este arquivo
-
+````
 
 ---
 
@@ -72,7 +72,7 @@ produto-crud/
 
 ##  Instalação e Execução
 
-###  Clonar o repositório
+### Clonar repositório
 
 ```bash
 
@@ -123,7 +123,8 @@ O servidor iniciará em:
 
 ### Autora
 **Adriane da Costa Ferreira**
-Estudante de Ciência da Computação - UNIFAP
+
+**Estudante de Ciência da Computação - UNIFAP**
 
 ---
 
