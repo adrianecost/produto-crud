@@ -80,18 +80,25 @@ git clone https://github.com/SEU_USUARIO/produto-crud.git
 
 
 ```
+---
+
 ### Entrar na pasta do projeto
 
 ```bash
 cd produto-crud
 
 ```
+
+---
+
 ### Instalar as dependências
 
 ```bash
 npm install
 
 ```
+---
+
 ### Executar o servidor
 
 ```bash
