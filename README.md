@@ -4,6 +4,15 @@ Aplicação **CRUD completa** desenvolvida em **Node.js**, **Express**, **SQLite
 O sistema permite cadastrar, visualizar, editar, excluir e pesquisar produtos, além de exportar os dados em formato **Excel**.
 
 ---
+### Interface do Sistema
+
+<img width="1920" height="1080" alt="Captura de tela 2025-11-11 211219" src="https://github.com/user-attachments/assets/313a943a-4f92-42d7-bff3-a42f55abab30" />
+
+<img width="1920" height="1080" alt="Captura de tela 2025-11-11 211248" src="https://github.com/user-attachments/assets/d6cda7ee-57ad-4384-8d5e-f97501e77a02" />
+
+<img width="1920" height="1080" alt="Captura de tela 2025-11-11 211305" src="https://github.com/user-attachments/assets/69848a54-0411-457d-b0df-2ed72b145f24" />
+
+---
 
 ##  Funcionalidades
 
