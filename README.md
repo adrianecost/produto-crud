@@ -6,11 +6,11 @@ O sistema permite cadastrar, visualizar, editar, excluir e pesquisar produtos, a
 ---
 ### Interface do Sistema
 
-<img width="1920" height="1080" alt="Captura de tela 2025-11-11 211219" src="https://github.com/user-attachments/assets/313a943a-4f92-42d7-bff3-a42f55abab30" />
+<img width="1920" height="1030" alt="Captura de tela 2025-11-11 211219" src="https://github.com/user-attachments/assets/a74b339d-6ed0-4ab7-b3b5-34a7d0ab5081" />
 
-<img width="1920" height="1080" alt="Captura de tela 2025-11-11 211248" src="https://github.com/user-attachments/assets/d6cda7ee-57ad-4384-8d5e-f97501e77a02" />
+<img width="1920" height="1035" alt="Captura de tela 2025-11-11 211248" src="https://github.com/user-attachments/assets/03264913-9011-4068-8339-b3ab9313455d" />
 
-<img width="1920" height="1080" alt="Captura de tela 2025-11-11 211305" src="https://github.com/user-attachments/assets/69848a54-0411-457d-b0df-2ed72b145f24" />
+<img width="1920" height="1023" alt="Captura de tela 2025-11-11 211305" src="https://github.com/user-attachments/assets/2f9f1654-db9a-4ed3-bcf7-2c7d1e884f05" />
 
 ---
 
